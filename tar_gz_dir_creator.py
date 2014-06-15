@@ -13,7 +13,7 @@ def creator(src, dst):
 	tar.close()
 
 if __name__ == '__main__':
-	if len(sys.argv) != 2:
+	if len(sys.argv) != 3:
 		print "Usage " + "./" + os.path.basename(__file__) + " SRC DST"
 	else:
 		src = sys.argv[1]
