@@ -1,4 +1,5 @@
 python
 ======
 
-puthon scripts
+Python scripts.
+
