@@ -1,2 +1,5 @@
 http://www.checkio.org/org
 Answers on exercises.
+
+Very useful service for debug code on elementary level:
+http://www.pythontutor.com/
